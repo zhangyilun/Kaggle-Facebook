@@ -1,5 +1,8 @@
 # Kaggle Facebook Recruiting IV: Human or Robot?
 
+## Page
+https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot
+
 ## Competition Details
 Ever wonder what it's like to work at Facebook? Facebook and Kaggle are launching an Engineering competition for 2015. Trail blaze your way to the top of the leader board to earn an opportunity at interviewing for a role as a software engineer, working on world class Machine Learning problems. 
 
