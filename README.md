@@ -2,4 +2,4 @@
 
 Competition website: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot
 
-Rank: 201/985
+Ranked **201/985**
